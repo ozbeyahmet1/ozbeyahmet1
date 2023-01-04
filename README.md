@@ -4,7 +4,7 @@
 
 I am a software developer who creates blockchain and front end applications. I am interested in 3d environment design as a hobby.
 
-I work at [Atlas Space](https://atlas.space/) as a Front End and Blockchain Developer.
+I work at [Consilience](https://www.consilience.vc/) as a Front End Developer.
 
 ---
 
