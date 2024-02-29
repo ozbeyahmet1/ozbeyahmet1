@@ -4,7 +4,7 @@
 
 I am a software developer who creates blockchain and front end applications. I am interested in 3d environment design as a hobby.
 
-I work at [Consilience](https://www.consilience.vc/) as a Front End Developer.
+I work at [Revival Rugs](https://www.revivalrugs.com/) as a Front End Developer.
 
 ---
 
